@@ -1,0 +1,43 @@
+.nav{
+    background : green;
+    top:0;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    
+}
+.cn > div{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    font-weight: bold;
+    height: 250px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.menu{
+  
+    background : blue;
+    
+}
+.contact{
+    
+    background : skyblue;
+}
+.Sidebar{
+    
+    
+    background : orange;
+}
+.footer{
+    clear: both;
+    background : brown;
+    top:0;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+   
+}
